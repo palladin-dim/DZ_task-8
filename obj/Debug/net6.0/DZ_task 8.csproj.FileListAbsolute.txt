@@ -1,0 +1,15 @@
+C:\Users\PALLADIN\Desktop\DZ_task 8\bin\Debug\net6.0\DZ_task 8.exe
+C:\Users\PALLADIN\Desktop\DZ_task 8\bin\Debug\net6.0\DZ_task 8.deps.json
+C:\Users\PALLADIN\Desktop\DZ_task 8\bin\Debug\net6.0\DZ_task 8.runtimeconfig.json
+C:\Users\PALLADIN\Desktop\DZ_task 8\bin\Debug\net6.0\DZ_task 8.dll
+C:\Users\PALLADIN\Desktop\DZ_task 8\bin\Debug\net6.0\DZ_task 8.pdb
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.csproj.AssemblyReference.cache
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.AssemblyInfoInputs.cache
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.AssemblyInfo.cs
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.csproj.CoreCompileInputs.cache
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.dll
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\refint\DZ_task 8.dll
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.pdb
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\DZ_task 8.genruntimeconfig.cache
+C:\Users\PALLADIN\Desktop\DZ_task 8\obj\Debug\net6.0\ref\DZ_task 8.dll
